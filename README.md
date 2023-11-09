@@ -6,6 +6,8 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Igor-Arauj0&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Igor-Arauj0.vercel.app/api/top-langs/?username=Igor-Arauj0&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
  </div>
  
@@ -49,6 +51,8 @@
 <a href="https://www.instagram.com/igu.araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.igorp.m.araujo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03294D&height=120&section=footer"/>
  
 
   
